@@ -1,0 +1,9 @@
+Read Me:
+
+1. This gathers data from a subscription based website which are:
+* Scopus
+* Web of Science
+
+2. This application will read from an excel sheet called Selenium.xlsx, which the sheets and 
+columns must be structured specifically.
+
